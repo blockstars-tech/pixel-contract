@@ -1,0 +1,25 @@
+# pack-refs with: peeled fully-peeled sorted 
+78346e58d5ad06d3313eb1716cbd606095d8576b refs/remotes/origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+e4f29222b647baaa86485677d58fcc087db086b6 refs/remotes/origin/dependabot/npm_and_yarn/normalize-url-4.5.1
+cbdf4ba9c6dd407534fe4219a1c5e1abd1529ec0 refs/remotes/origin/dependabot/npm_and_yarn/y18n-3.2.2
+42bdc79b43ed35245a52cb3d0e043ecbcb8d7021 refs/remotes/origin/dependabot/pip/metadata-api/aiohttp-3.7.4
+59f768d9ecac2d92b3c5a385cb7f70f1c3f63b88 refs/remotes/origin/dependabot/pip/metadata-api/flask-1.0
+7f3ffef529d6657ae44ce2b76a9486bcef515576 refs/remotes/origin/dependabot/pip/metadata-api/jinja2-2.11.3
+e9c5f82fab039f58d5d66c6039305242d5478432 refs/remotes/origin/dependabot/pip/metadata-api/pillow-8.2.0
+10963dddc25ecd4cf2c034f8787d0f0b503280d1 refs/remotes/origin/dependabot/pip/metadata-api/pycryptodome-3.6.6
+7cc32c70ed7397b5332c0eb8c32e4deb9795d5f9 refs/remotes/origin/dependabot/pip/metadata-api/pygments-2.7.4
+4257ab0f3de09db010dfefd2e9346ea6c1a8334e refs/remotes/origin/dependabot/pip/metadata-api/pyyaml-5.4
+ec4c1b4f3a8f629ad24cae354a630d96615feb94 refs/remotes/origin/dependabot/pip/metadata-api/requests-2.20.0
+0cbcf416af40aa771a686a4d53c18527e4a8ffa2 refs/remotes/origin/dependabot/pip/metadata-api/rsa-4.7
+4354e1cbc2dd1c2210858652ffe029eeede9ea04 refs/remotes/origin/dependabot/pip/metadata-api/urllib3-1.26.5
+66ca8c28c7daa89fccf7ab883956d2cb98fc52da refs/remotes/origin/dependabot/pip/metadata-api/werkzeug-0.15.3
+79930bb4a4b39d28b3186883c61e50d1bdb92662 refs/remotes/origin/factory-events
+6ab93f97d6b1e6f30b80d74329600fadbcc4ce89 refs/remotes/origin/fix-hdwallet-provider
+f7257a043e82fae8251eec2bdde37a44fee474c4 refs/remotes/origin/master
+247744fed2805bc05028ac7fbb89aa839c36374e refs/remotes/origin/max/2021/03/factory-mint-fix
+6c0a67334a2a58a851578cd036a5a3d390e168f1 refs/remotes/origin/max/2021/03/major-upgrades
+0ac530b8a05b605c3376c0e026399b575ade0499 refs/remotes/origin/max/2021/03/revert-major-upgrades
+fa2a40e34883060034523473de0b780b6f33ef8d refs/remotes/origin/max/2021/04/upgrade-with-workaround
+412be8570020393b3144958576f0ca3a8322ba10 refs/remotes/origin/max/2021/05/meta-transactions
+83ad292d948cdef82b6240f4518c7f1684707075 refs/remotes/origin/selling
+c3a06d22380b0de89067152d02800c3e524b70bb refs/remotes/origin/upgrade-oz
