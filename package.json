@@ -6,7 +6,8 @@
   "scripts": {
     "ganache-cli": "ganache-cli -d -p 7545 --gasLimit=10000000",
     "test": "DEPLOY_ALL=1 truffle test",
-    "deploy-rinkeby": "truffle deploy --network rinkeby"
+    "deploy-rinkeby": "truffle deploy --network rinkeby",
+    "compile": "truffle compile"
   },
   "repository": {
     "type": "git",
